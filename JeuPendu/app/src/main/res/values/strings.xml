@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Le Jeu Du Pendu</string>
+    <string name="init_word">_ _ _ _ _ _ _</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="you_win">GAGNE !</string>
+    <string name="you_lose">PERDU !</string>
+    <string name="game_is_ended">Partie finie !</string>
+    <string name="word_to_find">Le mot à trouver était: #word#</string>
+    <string name="try_an_other">Essayer une autre lettre</string>
+    <string name="letter_already_entered">Lettre déjà saisie</string>
+</resources>
